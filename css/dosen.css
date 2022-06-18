@@ -1,0 +1,25 @@
+/* MENU */
+
+.biru {
+  border-radius: 5%;
+}
+
+.biru:hover {
+  background-color: hsla(180, 100%, 50%, 0.09);
+}
+
+.judul {
+  font-weight: bold;
+}
+/* AKHIR  MENU */
+
+/* PENGUMUMAN */
+.timbul:hover {
+  box-shadow: 0px 0px 8px rgb(188, 200, 212);
+}
+
+.timbul {
+  border-radius: 5%;
+}
+
+/*AKHIR PENGUMUMAN */
